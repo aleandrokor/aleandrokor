@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aleandrokor
 - 👀 I’m interested in ...managment
 - 🌱 I’m currently learning ...managment
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...your project
 - 📫 How to reach me ...in twitter
 
 <!---
